@@ -128,7 +128,7 @@ Predictions are evaluated using:
 
 Additionally, 10 random test samples are selected to compare **predicted vs. actual prices** (after reversing the log transformation).
 
-Example:
+**Actual Model Predictions Example**:
 
 | Actual Price (EGP) | Predicted Price (EGP) |
 | ------------------ | --------------------- |
